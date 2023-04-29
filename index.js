@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import Router from './components/router';
 import "./index.css";
 // import UseState from './components/Usestate';
-// import App from "./App";
+import App from "./App";
 // import Hi from "./components/hi";
 // import FunctionClick from './components/FunctionClick';
 // import Parent from "./components/Parent"
