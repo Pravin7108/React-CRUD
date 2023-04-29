@@ -18,7 +18,7 @@ import "./index.css";
 function Index() { 
   return (
     <>
-    <Router/>
+    <App/>
     </>
   )
 }
